@@ -18,9 +18,15 @@ To use this:
 4. Click on the ellipsis (...) in the 'Global Macros' option.
 5. Add the following entry
 
-  nRF5_SDK=<PATH TO SDK>
+  nRF5_SDK=PATH_TO_SDK
 
-and save.
+  e.g.
+
+  nRF5_SDK=/nRF5_17.0.2
+
+  in my case, since I have the SDK in my root directory
+
+and click the Ok button save.
 
 Rather than creating a global macro, one can define a macro per project.
 
